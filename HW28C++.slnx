@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HW28C++/HW28C++.vcxproj" Id="e5cd5702-f676-49ef-bf6c-50ab1b6368d6" />
+</Solution>
